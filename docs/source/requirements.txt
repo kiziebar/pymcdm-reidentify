@@ -1,0 +1,12 @@
+sphinx-autoapi
+nbsphinx
+IPython
+myst_parser
+numpy
+scipy
+matplotlib
+sphinx-rtd-theme
+recommonmark
+pandoc
+pymcdm
+mealpy
