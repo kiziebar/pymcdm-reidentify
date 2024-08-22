@@ -11,7 +11,7 @@ ___
 You can download and install `pymcdm_reidentify` library using pip:
 
 ```Bash
-pip install pymcdm_reidentify
+pip install pymcdm-reidentify
 ```
 
 You can run all tests with following command from the root of the project:
