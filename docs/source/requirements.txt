@@ -9,4 +9,4 @@ sphinx-rtd-theme
 recommonmark
 pandoc
 pymcdm
-mealpy
+mealpy==3.0.1
