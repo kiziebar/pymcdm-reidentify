@@ -1,7 +1,7 @@
 Examples
 ========
 
-pymcdm_reidentify examples
+pymcdm-reidentify examples
 --------------------------
 
 .. toctree::
