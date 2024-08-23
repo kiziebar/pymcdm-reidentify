@@ -2,13 +2,13 @@
 
 Python 3 library for re-identification of multi-criteria models.
 
-Documentation is avaliable on [readthedocs]().
+Documentation is avaliable on [readthedocs](https://pymcdm-reidentify.readthedocs.io/en/latest/).
 
 ___
 
 # Installation
 
-You can download and install `pymcdm_reidentify` library using pip:
+You can download and install `pymcdm-reidentify` library using pip:
 
 ```Bash
 pip install pymcdm-reidentify
