@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "pymcdm_reidentify"
-version = "1.0.1"
+version = "1.0.2"
 authors = [
     {name = "Bartłomiej Kizielewicz", email = "bartlomiej-kizielewicz@zut.edu.pl"},
 ]
