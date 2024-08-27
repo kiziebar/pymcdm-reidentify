@@ -67,7 +67,7 @@ class SITCOM(StochasticIdentification):
 
         self.model = COMET(cvalues, lambda co: (np.arange(con), None))
 
-    def __call__(self, alts, *args, **kwargs):
+    def __call__(self, *args, **kwargs):
         """ Method that returns the identified preferences of characteristics objects.
 
             Returns
@@ -103,7 +103,6 @@ class SITCOM(StochasticIdentification):
 
         agent = self.method(kwargs_method)
         self.model.p = agent.solution
-
 
     def fitness(self, solutions, correlation=rw):
         """ Fitness method for finding the preferences of characteristic objects in the COMET model.
